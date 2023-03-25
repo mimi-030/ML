@@ -51,7 +51,7 @@ We will use GridSearchCV for Hyperparameter tuning, using the data before featur
 
 
 
-###Method 2: SVM
+### Method 2: SVM
 
 The accuracy calculated using SVM is 0.79.
 
