@@ -9,6 +9,7 @@ Non-DL refers to traditional machine learning methods that are not based on deep
 [To Get Dataset🔗](https://archive.ics.uci.edu/ml/datasets/Adult "To Get Dataset🔗")
 
 Method 1: Decision Tree
+
 Method 2: SVM
 
 [ 👉code for the Adult (A) dataset](https://github.com/mimi-030/ML-DL-Practices-for-Beginners/blob/main/Homework3/adult_nonDL.ipynb " 👉code for the Adult (A) dataset")
@@ -21,6 +22,7 @@ Method 2: SVM
 [To Get Dataset🔗](https://www.kaggle.com/c/spooky-author-identification "To Get Dataset🔗")
 
 Method 1: Decision Tree
+
 Method 2: SVM
 
 [ 👉code for SAI dataset](https://github.com/mimi-030/ML-DL-Practices-for-Beginners/blob/main/Homework3/spooky_author_nonDL.ipynb " 👉code for SAI dataset")
@@ -39,6 +41,7 @@ Method 2: SVM
 [To Get Dataset🔗](https://archive.ics.uci.edu/ml/datasets/Adult "To Get Dataset🔗")
 
 Method 1: DNN
+
 Method 2: RNN
 
 [ 👉code for the Adult (A) dataset](https://github.com/mimi-030/ML-DL-Practices-for-Beginners/blob/main/Homework4/adult_DL.ipynb " 👉code for the Adult (A) dataset") 
@@ -50,6 +53,7 @@ Method 2: RNN
 [To Get Dataset🔗](https://www.kaggle.com/c/spooky-author-identification "To Get Dataset🔗")
 
 Method 1: DNN
+
 Method 2: CNN
 
 [ 👉code for SAI dataset](https://github.com/mimi-030/ML-DL-Practices-for-Beginners/blob/main/Homework4/SpookyAuthor_DL.ipynb " 👉code for SAI dataset")
