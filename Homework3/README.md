@@ -46,6 +46,7 @@ Using Pearson Correlation for feature selection, unnecessary features are elimin
 <img src="6.jpg" width="40%">
 
 We will use GridSearchCV for Hyperparameter tuning, using the data before feature selection. The calculated accuracy is improved to 0.85.
+
 <img src="7.jpg" width="40%">
 
 
@@ -53,11 +54,17 @@ We will use GridSearchCV for Hyperparameter tuning, using the data before featur
 ###Method 2: SVM
 
 The accuracy calculated using SVM is 0.79.
+
 <img src="8.jpg" width="40%">
+
 Using feature selection, the accuracy obtained using SVM is still 0.79. 
+
 <img src="9.jpg" width="40%">
+
 The accuracy remains at 0.79 even after hyperparameter tuning. 
+
 <img src="10.jpg" width="40%">
+
 We found that even with feature selection and hyperparameter tuning, SVM did not show significant improvement in accuracy.
 
 
