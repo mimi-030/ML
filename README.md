@@ -9,7 +9,7 @@
 
 - the Spooky Author Identification (SAI) dataset
 
-- [📄 Full Report of non-DL](https://github.com/mimi-030/ML-DL-Practices-for-Beginners/blob/main/Homework3/README.md "📄 Full Report of non-DL")
+- [📄 Full Report of non-DL](https://github.com/mimi-030/ML-DL-Practices-for-Beginners/blob/main/non-DL/README.md "📄 Full Report of non-DL")
 
  #### - DL
 
@@ -17,7 +17,7 @@
 
 - the Spooky Author Identification (SAI) dataset
 
-- 📄[ Full Report for DL](https://github.com/mimi-030/ML-DL-Practices-for-Beginners/blob/main/Homework4/README.md " Full Report for DL")
+- 📄[ Full Report for DL](https://github.com/mimi-030/ML-DL-Practices-for-Beginners/blob/main/DL/README.md " Full Report for DL")
 
  #### - Comparison between DL and non-DL: 
 
@@ -45,7 +45,7 @@ Method 1: Decision Tree
 
 Method 2: SVM
 
-[ 👉code for the Adult (A) dataset](https://github.com/mimi-030/ML-DL-Practices-for-Beginners/blob/main/Homework3/adult_nonDL.ipynb " 👉code for the Adult (A) dataset")
+[ 👉code for the Adult (A) dataset](https://github.com/mimi-030/ML-DL-Practices-for-Beginners/blob/main/non-DL/adult_nonDL.ipynb " 👉code for the Adult (A) dataset")
 
 ------------
 
@@ -58,12 +58,12 @@ Method 1: Decision Tree
 
 Method 2: SVM
 
-[ 👉code for SAI dataset](https://github.com/mimi-030/ML-DL-Practices-for-Beginners/blob/main/Homework3/spooky_author_nonDL.ipynb " 👉code for SAI dataset")
+[ 👉code for SAI dataset](https://github.com/mimi-030/ML-DL-Practices-for-Beginners/blob/main/non-DL/spooky_author_nonDL.ipynb " 👉code for SAI dataset")
 
 ------------
 
 
-**[ 📄 Full Report of non-DL](https://github.com/mimi-030/ML-DL-Practices-for-Beginners/blob/main/Homework3/README.md " 📄 Full Report for non-DL")**
+**[ 📄 Full Report of non-DL](https://github.com/mimi-030/ML-DL-Practices-for-Beginners/blob/main/non-DL/README.md " 📄 Full Report for non-DL")**
 
 ------------
 
@@ -77,7 +77,7 @@ Method 1: DNN
 
 Method 2: RNN
 
-[ 👉code for the Adult (A) dataset](https://github.com/mimi-030/ML-DL-Practices-for-Beginners/blob/main/Homework4/adult_DL.ipynb " 👉code for the Adult (A) dataset") 
+[ 👉code for the Adult (A) dataset](https://github.com/mimi-030/ML-DL-Practices-for-Beginners/blob/main/DL/adult_DL.ipynb " 👉code for the Adult (A) dataset") 
 
 ------------
 
@@ -89,11 +89,11 @@ Method 1: DNN
 
 Method 2: CNN
 
-[ 👉code for SAI dataset](https://github.com/mimi-030/ML-DL-Practices-for-Beginners/blob/main/Homework4/SpookyAuthor_DL.ipynb " 👉code for SAI dataset")
+[ 👉code for SAI dataset](https://github.com/mimi-030/ML-DL-Practices-for-Beginners/blob/main/DL/SpookyAuthor_DL.ipynb " 👉code for SAI dataset")
 
 ------------
 
-**[ 📄 Full Report for DL](https://github.com/mimi-030/ML-DL-Practices-for-Beginners/blob/main/Homework4/README.md " 📄 Full Report for DL")**
+**[ 📄 Full Report for DL](https://github.com/mimi-030/ML-DL-Practices-for-Beginners/blob/main/DL/README.md " 📄 Full Report for DL")**
 
 ------------
 
