@@ -4,6 +4,8 @@
 ### Data preprocessing:
 For the Spooky Author Dataset, we will utilize the textual content to determine the authorship of three writers. See the figure below:"
 
+<img src="1.jpg" width="60%">
+
 ![](1.jpg =100x20)
 
 There are 19579 rows in total. Firstly, we need to delete the 'id' column since we don't need this information for our calculations. Next, we remove the unnecessary stop words and punctuation marks, and set the number of features to 300.
