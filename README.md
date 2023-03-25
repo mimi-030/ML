@@ -1,6 +1,10 @@
 ## Directory
 
-### [Homework3](#Homework3-1 "Homework3")
+
+> In this exercise, Homework 3 will focus on two main topics for non-Deep Learning analysis, while Homework 4 will focus on the following two main topics for Deep Learning analysis.
+Non-DL refers to traditional machine learning methods that are not based on deep learning.Non-DL refers to traditional machine learning methods that are not based on deep learning.
+
+### [Homework3](#homework3-1 "Homework3")
 
 #### - the Adult (A) dataset
 
@@ -25,12 +29,11 @@
 ### [Conclusion](#iii-conclusion "Conclusion")
 
 
+------------
 
 
 
 
-> In this exercise, Homework 3 will focus on two main topics for non-Deep Learning analysis, while Homework 4 will focus on the following two main topics for Deep Learning analysis.
-Non-DL refers to traditional machine learning methods that are not based on deep learning.Non-DL refers to traditional machine learning methods that are not based on deep learning.
 
 
 ## Homework3
