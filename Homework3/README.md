@@ -68,7 +68,6 @@ The accuracy remains at 0.79 even after hyperparameter tuning.
 We found that even with feature selection and hyperparameter tuning, SVM did not show significant improvement in accuracy.
 
 
-------------
 
 
 ## III. Conclusion
