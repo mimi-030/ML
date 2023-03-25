@@ -55,8 +55,8 @@ Method 2: CNN
 [ 👉code for SAI dataset](https://github.com/mimi-030/ML-DL-Practices-for-Beginners/blob/main/Homework4/SpookyAuthor_DL.ipynb " 👉code for SAI dataset")
 
 ------------
-**[ 📄 Full Report for DL](https://github.com/mimi-030/ML-DL-Practices-for-Beginners/blob/main/Homework4/README.md " 📄 Full Report for DL")
-**
+
+**[ 📄 Full Report for DL](https://github.com/mimi-030/ML-DL-Practices-for-Beginners/blob/main/Homework4/README.md " 📄 Full Report for DL")**
 
 ------------
 
