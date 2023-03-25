@@ -1,20 +1,30 @@
 ## Directory
-- Homework3
-	1. the Adult (A) dataset
-	2. the Spooky Author Identification (SAI) dataset
 
-	[📄 Full Report of non-DL](https://github.com/mimi-030/ML-DL-Practices-for-Beginners/blob/main/Homework3/README.md "📄 Full Report of non-DL")
-	
-- Homework4
-	1. the Adult (A) dataset
-	2. the Spooky Author Identification (SAI) dataset
+### [Homework3](#Homework3-1 "Homework3")
 
-	📄[ Full Report for DL](https://github.com/mimi-030/ML-DL-Practices-for-Beginners/blob/main/Homework4/README.md " Full Report for DL")
+#### - the Adult (A) dataset
 
-- Comparison between DL and non-DL: (Homework3 vs. Homework4)
-	1. the Adult (A) dataset
-	2. the Spooky Author Identification (SAI) dataset
-	3. Conclusion
+#### - the Spooky Author Identification (SAI) dataset
+
+[📄 Full Report of non-DL](https://github.com/mimi-030/ML-DL-Practices-for-Beginners/blob/main/Homework3/README.md "📄 Full Report of non-DL")
+
+###[Homework4](#homework4 "Homework4")
+
+####- the Adult (A) dataset
+
+####- the Spooky Author Identification (SAI) dataset
+
+📄[ Full Report for DL](https://github.com/mimi-030/ML-DL-Practices-for-Beginners/blob/main/Homework4/README.md " Full Report for DL")
+
+###[Comparison between DL and non-DL: (Homework3 vs. Homework4)](#comparison-between-dl-and-non-dl--homework3-vs-homework4 "Comparison between DL and non-DL: (Homework3 vs. Homework4)")
+
+####- the Adult (A) dataset
+
+####- the Spooky Author Identification (SAI) dataset
+
+###[Conclusion](#iii-conclusion "Conclusion")
+
+
 
 
 
