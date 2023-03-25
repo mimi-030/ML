@@ -1,34 +1,34 @@
 ## Directory
 
 
+
+
+ #### - Homework3
+
+- the Adult (A) dataset
+
+- the Spooky Author Identification (SAI) dataset
+
+- [📄 Full Report of non-DL](https://github.com/mimi-030/ML-DL-Practices-for-Beginners/blob/main/Homework3/README.md "📄 Full Report of non-DL")
+
+ #### - Homework4
+
+- the Adult (A) dataset
+
+- the Spooky Author Identification (SAI) dataset
+
+- 📄[ Full Report for DL](https://github.com/mimi-030/ML-DL-Practices-for-Beginners/blob/main/Homework4/README.md " Full Report for DL")
+
+ #### - Comparison between DL and non-DL: (Homework3 vs. Homework4)
+
+- the Adult (A) dataset
+
+- the Spooky Author Identification (SAI) dataset
+
+- Conclusion
+
 > In this exercise, Homework 3 will focus on two main topics for non-Deep Learning analysis, while Homework 4 will focus on the following two main topics for Deep Learning analysis.
 Non-DL refers to traditional machine learning methods that are not based on deep learning.Non-DL refers to traditional machine learning methods that are not based on deep learning.
-
-### [Homework3](#homework3-1 "Homework3")
-
-#### - the Adult (A) dataset
-
-#### - the Spooky Author Identification (SAI) dataset
-
-[📄 Full Report of non-DL](https://github.com/mimi-030/ML-DL-Practices-for-Beginners/blob/main/Homework3/README.md "📄 Full Report of non-DL")
-
-### [Homework4](#homework4 "Homework4")
-
-#### - the Adult (A) dataset
-
-#### - the Spooky Author Identification (SAI) dataset
-
-📄[ Full Report for DL](https://github.com/mimi-030/ML-DL-Practices-for-Beginners/blob/main/Homework4/README.md " Full Report for DL")
-
-### [Comparison between DL and non-DL: (Homework3 vs. Homework4)](#comparison-between-dl-and-non-dl--homework3-vs-homework4 "Comparison between DL and non-DL: (Homework3 vs. Homework4)")
-
-#### - the Adult (A) dataset
-
-#### - the Spooky Author Identification (SAI) dataset
-
-### [Conclusion](#iii-conclusion "Conclusion")
-
-
 ------------
 
 
