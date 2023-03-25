@@ -27,3 +27,46 @@ The accuracy obtained using Decision Tree was only 0.46, even with the use of hy
 After calculating the result, the accuracy was found to be 0.72. Cross-validation was used, with cv set to five parts, and the accuracy obtained was still 0.72. Compared to decision tree, SVM has a much higher accuracy, but SVM runs too slow to use hyperparameter tuning to find the best parameters.
 
 <img src="4.jpg" width="40%">
+
+## II. Adult Dataset
+### Data Preprocessing:
+We will use the Adult Dataset to train and predict the income of each person, whether it is greater than or equal to 50k or less than 50k. The structure of the dataset contains many unknown information as shown in the figure below.
+
+Firstly, we need to remove the rows or columns with unknown information "?", delete the irrelevant column "fnlwght", and finally have 14 remaining rows.
+
+Next, we convert the gender "sex" to a number 0 or 1, and "income>=50" & "income<50K" to numbers 0 or 1 for later training. Using one-hot encoding, we convert the remaining categories into numbers, resulting in a total of 96 features.
+
+### Method 1: Decision Tree
+The accuracy of the calculation result is 0.81.
+
+<img src="5.jpg" width="40%">
+
+Using Pearson Correlation for feature selection, unnecessary features are eliminated, reducing the number of features from the original 94 to 22. The calculated accuracy is 0.82.
+
+<img src="6.jpg" width="40%">
+
+We will use GridSearchCV for Hyperparameter tuning, using the data before feature selection. The calculated accuracy is improved to 0.85.
+<img src="7.jpg" width="40%">
+
+
+
+###Method 2: SVM
+
+The accuracy calculated using SVM is 0.79.
+<img src="8.jpg" width="40%">
+Using feature selection, the accuracy obtained using SVM is still 0.79. 
+<img src="9.jpg" width="40%">
+The accuracy remains at 0.79 even after hyperparameter tuning. 
+<img src="10.jpg" width="40%">
+We found that even with feature selection and hyperparameter tuning, SVM did not show significant improvement in accuracy.
+
+
+------------
+
+
+## III. Conclusion
+
+Both datasets were analyzed using decision tree and SVM. It was found that the SVM accuracy for the Spooky Author dataset was 72%, which was more effective than the decision tree accuracy of 46%. On the other hand, the decision tree accuracy for the Adult dataset was 85%, which was higher than the 79% accuracy of SVM. However, the SVM results for both datasets exceeded 70%, indicating that the performance of SVM may not be too bad for both datasets.
+
+From this assignment, we can conclude that for different types of datasets, adjustments need to be made accordingly, and different methods can be used to achieve accuracy. Finally, there will be a most suitable way to train the model!
+
