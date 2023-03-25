@@ -4,7 +4,7 @@
 ### Data preprocessing:
 For the Spooky Author Dataset, we will utilize the textual content to determine the authorship of three writers. See the figure below:"
 
-<img src="1.jpg" width="40%">
+<img src="img/1.jpg" width="40%">
 
 
 There are 19579 rows in total. Firstly, we need to delete the 'id' column since we don't need this information for our calculations. Next, we remove the unnecessary stop words and punctuation marks, and set the number of features to 300.
@@ -14,11 +14,11 @@ Since we need to convert text into vectors, we replace the names of the three au
 ### Method 1: Decision Tree
 After calculating the result, the accuracy was found to be 0.46.
 
-<img src="2.jpg" width="40%">
+<img src="img/2.jpg" width="40%">
 
 Hyperparameter tuning was used to find different model hyperparameters to see if different combinations would have an effect on the final result. Due to the large size of this dataset, a limited number of combinations were selected, including 'criterion' and 'max_depth'. GridSearchCV was used to select the best parameter combination, but the accuracy obtained was still only 0.46, as shown in the figure below.
 
-<img src="3.jpg" width="40%">
+<img src="img/3.jpg" width="40%">
 
 The accuracy obtained using Decision Tree was only 0.46, even with the use of hyperparameters. This phenomenon is reasonable and indicates that decision trees are not suitable for datasets with a large number of features.
 
@@ -26,7 +26,7 @@ The accuracy obtained using Decision Tree was only 0.46, even with the use of hy
 ### Method 2: SVM
 After calculating the result, the accuracy was found to be 0.72. Cross-validation was used, with cv set to five parts, and the accuracy obtained was still 0.72. Compared to decision tree, SVM has a much higher accuracy, but SVM runs too slow to use hyperparameter tuning to find the best parameters.
 
-<img src="4.jpg" width="40%">
+<img src="img/4.jpg" width="40%">
 
 ## II. Adult Dataset
 ### Data Preprocessing:
@@ -39,15 +39,15 @@ Next, we convert the gender "sex" to a number 0 or 1, and "income>=50" & "income
 ### Method 1: Decision Tree
 The accuracy of the calculation result is 0.81.
 
-<img src="5.jpg" width="40%">
+<img src="img/5.jpg" width="40%">
 
 Using Pearson Correlation for feature selection, unnecessary features are eliminated, reducing the number of features from the original 94 to 22. The calculated accuracy is 0.82.
 
-<img src="6.jpg" width="40%">
+<img src="img/6.jpg" width="40%">
 
 We will use GridSearchCV for Hyperparameter tuning, using the data before feature selection. The calculated accuracy is improved to 0.85.
 
-<img src="7.jpg" width="40%">
+<img src="img/7.jpg" width="40%">
 
 
 
@@ -55,15 +55,15 @@ We will use GridSearchCV for Hyperparameter tuning, using the data before featur
 
 The accuracy calculated using SVM is 0.79.
 
-<img src="8.jpg" width="40%">
+<img src="img/8.jpg" width="40%">
 
 Using feature selection, the accuracy obtained using SVM is still 0.79. 
 
-<img src="9.jpg" width="40%">
+<img src="img/9.jpg" width="40%">
 
 The accuracy remains at 0.79 even after hyperparameter tuning. 
 
-<img src="10.jpg" width="40%">
+<img src="img/10.jpg" width="40%">
 
 We found that even with feature selection and hyperparameter tuning, SVM did not show significant improvement in accuracy.
 

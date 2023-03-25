@@ -3,7 +3,7 @@
 
 
 
- #### - Homework3
+ #### - non-DL (Traditional Machine Learning)
 
 - the Adult (A) dataset
 
@@ -11,7 +11,7 @@
 
 - [📄 Full Report of non-DL](https://github.com/mimi-030/ML-DL-Practices-for-Beginners/blob/main/Homework3/README.md "📄 Full Report of non-DL")
 
- #### - Homework4
+ #### - DL
 
 - the Adult (A) dataset
 
@@ -19,7 +19,7 @@
 
 - 📄[ Full Report for DL](https://github.com/mimi-030/ML-DL-Practices-for-Beginners/blob/main/Homework4/README.md " Full Report for DL")
 
- #### - Comparison between DL and non-DL: (Homework3 vs. Homework4)
+ #### - Comparison between DL and non-DL: 
 
 - the Adult (A) dataset
 
@@ -27,8 +27,8 @@
 
 - Conclusion
 
-> In this exercise, Homework 3 will focus on two main topics for non-Deep Learning analysis, while Homework 4 will focus on the following two main topics for Deep Learning analysis.
-Non-DL refers to traditional machine learning methods that are not based on deep learning.Non-DL refers to traditional machine learning methods that are not based on deep learning.
+> In this exercise, non-DL will focus on two main topics for non-Deep Learning analysis, while DL will focus on the following two main topics for Deep Learning analysis.
+Non-DL refers to traditional machine learning methods that are not based on deep learning.
 ------------
 
 
@@ -36,7 +36,7 @@ Non-DL refers to traditional machine learning methods that are not based on deep
 
 
 
-## Homework3
+## non-DL
 
 ### 1. the Adult (A) dataset
 [To Get Dataset🔗](https://archive.ics.uci.edu/ml/datasets/Adult "To Get Dataset🔗")
@@ -68,7 +68,7 @@ Method 2: SVM
 ------------
 
 
-## Homework4
+## DL
 
 ### 1. the Adult (A) dataset
 [To Get Dataset🔗](https://archive.ics.uci.edu/ml/datasets/Adult "To Get Dataset🔗")
@@ -97,7 +97,7 @@ Method 2: CNN
 
 ------------
 
-## Comparison between DL and non-DL:  (Homework3 vs. Homework4)
+## Comparison between DL and non-DL: 
 
 ### I. Spooky Author Dataset
 DL methods used were DNN and RNN, while non-DL methods used were Decision Tree and SVM. The accuracies are:
