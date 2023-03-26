@@ -1,31 +1,28 @@
-## Directory
+## Content
 
+ #### - [non-DL (Traditional Machine Learning)](https://github.com/mimi-030/ML-DL-Practices-for-Beginners#non-dl "non-DL (Traditional Machine Learning)")
 
+- [the Adult (A) dataset](https://github.com/mimi-030/ML-DL-Practices-for-Beginners#1-the-adult-a-dataset "the Adult (A) dataset")
 
-
- #### - non-DL (Traditional Machine Learning)
-
-- the Adult (A) dataset
-
-- the Spooky Author Identification (SAI) dataset
+- [the Spooky Author Identification (SAI) dataset](https://github.com/mimi-030/ML-DL-Practices-for-Beginners#2-the-spooky-author-identification-sai-dataset "the Spooky Author Identification (SAI) dataset")
 
 - [📄 Full Report of non-DL](https://github.com/mimi-030/ML-DL-Practices-for-Beginners/blob/main/non-DL/README.md "📄 Full Report of non-DL")
 
- #### - DL
+ #### - [DL](https://github.com/mimi-030/ML-DL-Practices-for-Beginners#dl "DL")
 
-- the Adult (A) dataset
+- [the Adult (A) dataset](https://github.com/mimi-030/ML-DL-Practices-for-Beginners#1-the-adult-a-dataset-1 "the Adult (A) dataset")
 
-- the Spooky Author Identification (SAI) dataset
+- [the Spooky Author Identification (SAI) dataset](https://github.com/mimi-030/ML-DL-Practices-for-Beginners#2-the-spooky-author-identification-sai-dataset-1 "the Spooky Author Identification (SAI) dataset")
 
 - 📄[ Full Report for DL](https://github.com/mimi-030/ML-DL-Practices-for-Beginners/blob/main/DL/README.md " Full Report for DL")
 
- #### - Comparison between DL and non-DL: 
+ #### - [Comparison between DL and non-DL:](https://github.com/mimi-030/ML-DL-Practices-for-Beginners#comparison-between-dl-and-non-dl "Comparison between DL and non-DL:")
 
-- the Adult (A) dataset
+- [the Adult (A) dataset](https://github.com/mimi-030/ML-DL-Practices-for-Beginners#ii-adult-dataset "the Adult (A) dataset")
 
-- the Spooky Author Identification (SAI) dataset
+- [the Spooky Author Identification (SAI) dataset](https://github.com/mimi-030/ML-DL-Practices-for-Beginners#i-spooky-author-dataset "the Spooky Author Identification (SAI) dataset")
 
-- Conclusion
+- [Conclusion](https://github.com/mimi-030/ML-DL-Practices-for-Beginners#iii-conclusion "Conclusion")
 
 > In this exercise, non-DL will focus on two main topics for non-Deep Learning analysis, while DL will focus on the following two main topics for Deep Learning analysis.
 Non-DL refers to traditional machine learning methods that are not based on deep learning.
