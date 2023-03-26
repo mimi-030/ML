@@ -10,27 +10,27 @@ We need to use known data to do deep learning to determine which author the text
 
 ### Model 1 (DNN):
 
-##### Data Preprocessing
+### Data Preprocessing
 
 Since the model cannot directly read text, it is necessary to convert the text into numerical vectors. In this case, global vectors (gloVe) are used for preprocessing to convert the text into numerical vectors.
 
 In this model, three fully connected layers are used, with the first two layers having 300 neurons each. The last layer is the output layer, with three possible outputs corresponding to the three authors: "EAP", "HPL", and "MWS".
 
 
-##### DNN
+### DNN
 Here, 100 epochs are set, but early stopping is also set, which stops at the 9th epoch. From the figure below, we can see that the score does not change much after the 9th epoch, and the accuracy is approximately between 0.73 to 0.74.
 
-**The overall average loss is 0.6556, and the accuracy is 0.7431.
-**
+**The overall average loss is 0.6556, and the accuracy is 0.7431.**
+
 <img src="img/2.jpg" width="40%">
 
 ### Model 2 (RNN)
 
-##### Data Preprocessing
+### Data Preprocessing
 
 In this model, two methods are used: LSTM and GRU, both of which are types of RNNs. GRU is a variant of the LSTM method. The data is preprocessed by tokenizing the text and padding the sequences to the same length, which is set to 70.
 
-##### LSTM:
+#### LSTM:
 
 In this model, the hidden feature is set to 100, and the first layer is an LSTM layer, followed by three fully connected layers with 1024 neurons each.
 
@@ -41,7 +41,7 @@ The overall average loss is 0.5164, and the accuracy is 0.8003.
 <img src="img/3.jpg" width="40%">
 
 
-##### GRU:
+### GRU:
 
 In this model, the hidden feature is set to 300, and the first layer is a GRU layer, followed by three fully connected layers with 1024 neurons each. The architecture is shown in the figure below.
 In this model, 100 epochs were set, and early stopping was also used, stopping at the 28th epoch. From the graph below, we can see that the score remains almost unchanged after the 28th epoch, with accuracy falling around 0.77~0.81. Overall, the average loss is 0.4654, and the accuracy is 0.8151.
